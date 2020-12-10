@@ -29,6 +29,7 @@ GEM
 
 PLATFORMS
   ruby
+  x86_64-darwin-19
 
 DEPENDENCIES
   pry
@@ -39,4 +40,4 @@ DEPENDENCIES
   thin
 
 BUNDLED WITH
-   1.10.6
+   2.2.0
